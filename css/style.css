@@ -1,0 +1,135 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+    color: 	#808080;
+   
+    text-align: center !important;
+}
+span{
+    color: rgb(170, 12, 86);
+}
+.hero{
+    
+    background-color:  rgb(5, 4, 5) !important;}
+
+h1{
+    color: rgb(170, 12, 86) !important;
+}
+h2{
+    color: rgb(170, 12, 86) !important;
+}
+.my-btn{
+    background-color: rgb(170, 12, 86) !important;
+    color: white !important;
+}
+.header-text{
+   
+    font-size: 70px;
+    font-weight: 900;
+    background: -webkit-linear-gradient(rgb(170, 12, 86),#eee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} 
+.bg-pink{
+    background-color: rgb(170, 12, 86);
+}
+
+.timeline{
+    font-size: 20px;
+    font-weight: 500;
+    background: -webkit-linear-gradient(rgb(170, 12, 86),#eee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.timeline:hover{
+    transform: translateY(-6px);
+}
+section{
+    margin-top: 200px !important;
+    margin-bottom: 200px !important;
+}
+.zoom {
+
+    transition: transform .2s; /* Animation */
+    
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+.headings{
+
+    margin-bottom: 80px !important;
+    font-size: 40px;
+    font-weight: 900;
+    background: -webkit-linear-gradient(rgb(170, 12, 86),#eee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.headings:hover{
+    transform: translateY(-6px);
+}
+.project{
+    background-color: #808080 !important;
+    border-radius: 50% !important;
+}
+.subpara{
+    margin-top: 30px !important;
+    font-size: 20px;
+    
+    background: -webkit-linear-gradient(rgb(170, 12, 86),#eee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+ul i{
+    background: -webkit-linear-gradient(rgb(170, 12, 86),#eee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 25px !important;
+}
+ul i:hover{
+    background: -webkit-linear-gradient(rgb(209, 157, 181),#eee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}
+.header-part{
+    background: -webkit-linear-gradient(rgb(170, 12, 86),#eee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+}
+
+.mybutton{
+    border-radius: 20% !important;
+    color: white !important ;
+   
+    -webkit-box-shadow: 0 0 10px #fff;
+        box-shadow: 0 0 10px #fff;
+}
+.mybuttons{
+    border-radius: 10% !important;
+    color: white !important ;
+   
+    -webkit-box-shadow: 0 0 10px #fff;
+        box-shadow: 0 0 10px #fff;
+}
+.mybuttons:hover{
+    transform: translateY(-6px);
+
+}
+nav .navbar-nav li a{
+    color: 	#808080 !important;
+    margin-top: 7px;
+    }
+nav .navbar-nav li a:hover{
+    color: 	#cec6c6 !important;
+        
+    }    
+.bg-mydark{
+    background-color: rgb(5, 4, 5) !important;
+    
+    color: rgb(170, 12, 86) !important;
+}
+div .card{
+    box-shadow: 0 6px 6px 0 rgb(70, 66, 70), 0 4px 4px 0 rgb(70, 66, 70) !important;
+border: rgb(170, 12, 86) !important;
+}

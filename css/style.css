@@ -22,8 +22,7 @@ h2{
     color: white !important;
 }
 .header-text{
-   
-    font-size: 70px;
+    font-size: 55px;
     font-weight: 900;
     background: -webkit-linear-gradient(rgb(170, 12, 86),#eee);
     -webkit-background-clip: text;
@@ -32,7 +31,9 @@ h2{
 .bg-pink{
     background-color: rgb(170, 12, 86);
 }
-
+.fix{
+    padding-top: 135px;
+}
 .timeline{
     font-size: 20px;
     font-weight: 500;
@@ -58,7 +59,7 @@ section{
   }
 .headings{
 
-    margin-bottom: 80px !important;
+    margin-bottom: 20px !important;
     font-size: 40px;
     font-weight: 900;
     background: -webkit-linear-gradient(rgb(170, 12, 86),#eee);

@@ -1,7 +1,6 @@
 *{
     font-family: 'Ubuntu', sans-serif;
     color: 	#808080;
-   overflow-x: hidden;
     text-align: center !important;
 }
 span{
@@ -133,4 +132,28 @@ nav .navbar-nav li a:hover{
 div .card{
     box-shadow: 0 6px 6px 0 rgb(70, 66, 70), 0 4px 4px 0 rgb(70, 66, 70) !important;
 border: rgb(170, 12, 86) !important;
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 50px;
+  color: hsl(0, 0%, 0%);
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 50px;
+  color: rgb(0, 0%, 0%);
 }
